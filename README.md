@@ -1,6 +1,6 @@
 # ID3-Decision-Tree
 ID3 Algorithm for Decision Tree Implementation with Post Pruning
-
+#Contributors : Pavan Y R (mail2pavanyr@gmail.com ) and Nikhil (nikhilraog@gmail.com)
 Steps to Run the program:
 1. compile the mian class driver file : HW1.java
     
